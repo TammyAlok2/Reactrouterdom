@@ -1,8 +1,9 @@
 import React from 'react';
 
 const Home = () => (
-  <div>
-    <h2>Home</h2>
+  <div className='container'>
+   <h1>The most delicious place on the Internet!
+   There's so much to explore, here at the home of ice cream.</h1>
   </div>
 );
 

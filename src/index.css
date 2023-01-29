@@ -1,0 +1,43 @@
+
+#l1
+{
+    background-color:white;
+    font-size: xx-large;
+    display :flex;
+  justify-content: space-around;
+    flex: start;
+    flex-direction: row;
+    
+    text-decoration: none;
+    color: black;
+}
+body{
+
+    background-color: white;
+}
+#about
+{
+
+    background-image: url("https://media.istockphoto.com/id/1366352000/photo/businessman-standing-on-the-top-of-rock.jpg?b=1&s=170667a&w=0&k=20&c=340WNRIaHgIaK8fVpknkuH7OKiXXtLNHgmLAgF0Uhjw=");
+}
+.container{
+    font-size: 30px;
+    background-color: 	#dda0dd;
+
+}
+#circle{
+    font-size: 100px;
+    background: aqua;
+    
+  border: 1px solid black;
+  background-position: center;
+  background-size: cover;
+
+    position: relative;
+     width: 150px;
+      height: 150px;
+       overflow: hidden;
+        border-radius: 300px;
+        border-width:5px;
+        border-style: solid;
+}
